@@ -1,6 +1,6 @@
 ### Hi there👋 Welcome to my GitHub profile
 
-- 🔭 I’m currently working on machine learning and reinforcement learning
+- 🔭 I’m currently working on machine learning and reinforcement learning applications
 - 🌱 I’m currently learning AI and data science
 - 👯 I’m looking to collaborate on any automation or AI project
 - 🤔 I’m looking for help with improving my coding skills
