@@ -6,6 +6,8 @@ Whenever a new project was announced, I found myself excited about a new challen
 
 However, a few years ago, I decided to embark on a new challenge by exploring a different field: data science and artificial intelligence. I enrolled in a master’s program to learn about statistics, data operations, machine learning, and artificial intelligence. Currently, I’m seeking opportunities to apply my newly acquired knowledge to real-world problems, hoping to leverage my valuable experience from my previous role.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinabahrami/)
+
 - 🔭 I’m currently working on my coding and AI knowledge
 - 🌱 I’m currently learning AI
 - 👯 I’m looking to collaborate on any data science, automation, or AI project
