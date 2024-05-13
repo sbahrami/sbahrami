@@ -1,5 +1,6 @@
-### Hello World! Nice to see you here👋
+# Hello World! Nice to see you here👋
 
+## About me
 My professional journey began as a mechanical engineer in the field of industrial automation and robotics. This role was an exhilarating experience for me as a novice engineer, where I could blend my creativity with my engineering skills to innovate and develop automated equipment. I had the opportunity to simulate these devices, oversee their manufacturing and assembly, and ultimately witness them in operation at the manufacturing site.
 
 Whenever a new project was announced, I found myself excited about a new challenge. I was eager to find solutions, and I was confident in my ability to do so. While grappling with these challenges could become draining over time, my tenacity would ultimately lead to a resolution.
