@@ -1,4 +1,4 @@
-** Hello World! Nice to see you here👋 **
+**Hello World! Nice to see you here👋**
 
 ## My Professional Journey
 My professional journey began as a mechanical engineer in the field of industrial automation and robotics. This role was an exhilarating experience for me as a novice engineer, where I could blend my creativity with my engineering skills to innovate and develop automated equipment. I had the opportunity to simulate these devices, oversee their manufacturing and assembly, and ultimately witness them in operation at the manufacturing site.
