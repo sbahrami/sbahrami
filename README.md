@@ -1,13 +1,21 @@
-### Hi there👋 Welcome to my GitHub profile
+### Hello World! Nice to see you here👋
 
-- 🔭 I’m currently working on machine learning and reinforcement learning applications
-- 🌱 I’m currently learning AI and data science
-- 👯 I’m looking to collaborate on any automation or AI project
-- 🤔 I’m looking for help with improving my coding skills
-- 💬 Ask me about how to automate a business process, implement an AI algorithm, or even design a machine
-- 📫 How to reach me: connect with me on https://www.linkedin.com/in/sinabahrami/
-- 😄 Pronouns: him/his
-- ⚡ Fun fact: I designed mechanical equipment for 7 years for robotic stations, managed automation projects, and have just graduated with a master's degree encompassing courses on data analytics and AI
+My professional journey began as a mechanical engineer in the industrial automation and robotics sector. This role was an exhilarating experience for me as a novice engineer, where I could blend my creativity with my engineering skills to develop automated equipment. I had the opportunity to simulate these devices, oversee their manufacturing and assembly, and ultimately witness them in operation at the manufacturing site.
+
+Whenever a new project was announced, I found myself excited about a new challenge. I was eager to find solutions, and I was confident in my ability to do so.
+
+However, a few years ago, I decided to embark on a new challenge by exploring a different field: data science and artificial intelligence. I enrolled in a master’s program to learn about statistics, data operations, machine learning, and artificial intelligence. Currently, I’m seeking opportunities to apply my newly acquired knowledge to real-world problems, hoping to leverage my valuable experience from my previous role.
+
+- 🔭 I’m currently working on my coding and AI knowledge
+- 🌱 I’m currently learning AI
+- 👯 I’m looking to collaborate on any data science, automation, or AI project
+- 🤔 I’m looking for helpful comments and opportunities to apply my skills and knowledge
+- 💬 Ask me about everything you think is relevant
+- 📫 I'll be more than happy to connect with you on [LinkedIn](https://www.linkedin.com/in/sinabahrami/)
+- 😄 Pronouns: him/his. I know...Sina might sound like a female name, but It's not in Persian. It is taken after a famous Persian Philosopher and Physician called [Avicenna](https://en.wikipedia.org/wiki/Avicenna).
+- ⚡ Fun fact: I'm interested in almost every area of science!
+
+Please feel free to explore my projects and let me know if you have any comment
 
 <!--
 **sbahrami/sbahrami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
