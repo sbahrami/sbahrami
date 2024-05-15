@@ -11,13 +11,9 @@ However, a few years ago, I decided to embark on a new challenge by exploring a 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinabahrami/)
 
 - 🔭 I’m currently working on my coding and AI knowledge
-- 🌱 I’m currently learning AI
 - 👯 I’m looking to collaborate on any data science, automation, or AI project
-- 🤔 I’m looking for helpful comments and opportunities to apply my skills and knowledge
-- 💬 Ask me about everything you think is relevant
 - 📫 I'll be more than happy to connect with you on [LinkedIn](https://www.linkedin.com/in/sinabahrami/)
-- 😄 Pronouns: him/his. I know...Sina might sound like a female name, but It's not in Persian. It is taken after a famous Persian Philosopher and Physician called [Avicenna](https://en.wikipedia.org/wiki/Avicenna).
-- ⚡ Fun fact: I'm interested in almost every area of science!
+- 😄 Interesting Fact: Sina is a Persian male name. It is taken after a famous Persian Philosopher and Physician called [Avicenna](https://en.wikipedia.org/wiki/Avicenna).
 
 Please feel free to explore my projects and let me know if you have any comment
 
