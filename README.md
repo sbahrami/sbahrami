@@ -13,7 +13,6 @@ However, a few years ago, I decided to embark on a new challenge by exploring a 
 - 🔭 Currently working on my knowledge within the field of Data Science and AI
 - 👯 Seeking to collaborate on any data science, automation, or AI project
 - 📫 More than happy to connect with you on [LinkedIn](https://www.linkedin.com/in/sinabahrami/)
-- 😄 Interesting Fact: Sina is a Persian male name. It is taken after a famous Persian Philosopher and Physician called [Avicenna or Ibn Sina](https://en.wikipedia.org/wiki/Avicenna).
 
 Please feel free to explore my projects and let me know if you have any comment
 
