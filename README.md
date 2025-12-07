@@ -10,11 +10,10 @@ However, a few years ago, I decided to embark on a new challenge by exploring a 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinabahrami/)
 
-- 🔭 Currently working on my knowledge within the field of Data Science and AI
+- 🔭 Currently active in the field of AI and Data Science
 - 👯 Seeking to collaborate on any data science, automation, or AI project
-- 📫 More than happy to connect with you on [LinkedIn](https://www.linkedin.com/in/sinabahrami/)
 
-Please feel free to explore my projects and let me know if you have any comment
+Please feel free to explore my projects and let me know if you have any comments
 
 <!--
 **sbahrami/sbahrami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
